@@ -8,8 +8,7 @@
 
 <p>Sass Değişkenleri: Sass veya SCSS değişkenleri, belirli bir değeri saklamak için kullanılır. '$' sembolü ile başlarlar ve herhangi bir veri türünü temsil edebilirler. Örneğin, '$main-color: #3498db;' gibi bir değişken tanımlayabilir ve stil kurallarınızda bu değişkeni kullanabilirsiniz.</p>
 
-<p>Function ve Mixin Örneği: SCSS, işlevler ve karışımları (mixins) tanımlamanıza olanak tanır. İşlevler, hesaplamalar yapmak veya değerleri dönüştürmek için kullanılır. Mixins ise belirli stil kurallarını tekrar kullanılabilir hale getirir. Örnek bir mixin:
-![Alt text](image.png)
+<p>Function ve Mixin Örneği: SCSS, işlevler ve karışımları (mixins) tanımlamanıza olanak tanır. İşlevler, hesaplamalar yapmak veya değerleri dönüştürmek için kullanılır. Mixins ise belirli stil kurallarını tekrar kullanılabilir hale getirir.
 </p>
 
 <p>Include (İçe Aktarma): @include yönergesi, bir mixin'i stil kurallarınızda kullanmak için kullanılır. Yukarıdaki örnekte görüldüğü gibi, mixin'i belirli bir stil kurallarına dahil etmek için '@include' kullanılır.</p>
